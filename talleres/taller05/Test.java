@@ -4,7 +4,7 @@
  * Ejecute esta clase para hacerse una idea de si su implementacion de los
  * ejercicios propuestos en el Taller de Clase #5 son correctos.
  * 
- * @author Mateo Agudelo
+ * @author Mateo Agudelo, Juan Felipe Ortiz, Samuel Meneses
  */
 public class Test {
 
